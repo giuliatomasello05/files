@@ -3,8 +3,8 @@
 ## Scopo
 
 Archivio pubblico di certificazioni e attestati di Giulia Tomasello, collegati
-dal suo curriculum. Comunicare in italiano. I PDF sono originali pubblicabili,
-non output temporanei: DEVONO poter essere versionati in questa repository.
+dal suo curriculum. Comunicare in italiano. I PDF sono documenti destinati alla pubblicazione, anche in copia oscurata:
+DEVONO poter essere versionati in questa repository.
 
 ## Struttura attuale
 
@@ -12,6 +12,10 @@ non output temporanei: DEVONO poter essere versionati in questa repository.
 - `README.md`: indice pubblico e istruzioni di aggiornamento.
 - `2025-certificazione-inglese.pdf`: allegato della sezione lingue del CV.
 - `2025-basic-and-principles-of-gc-by-restek.pdf`: allegato del webinar Restek.
+- `2026-toefl-ibt.pdf`: test del 2026-05-27, B2, 4.5/6 (90/120).
+- `2026-cambridge-c1-advanced.pdf`: esame del 2026-03-07, 178/210, B2.
+- I due PDF 2026 sono copie con i dati personali oscurati, pubblicate con
+  autorizzazione esplicita. Non sostituirle con gli originali non oscurati.
 - Nessuna compilazione o dipendenza applicativa richiesta qui.
 
 ## Pubblicazione degli allegati
@@ -25,7 +29,10 @@ non output temporanei: DEVONO poter essere versionati in questa repository.
   `https://github.com/giuliatomasello05/files/blob/main/NOME.pdf`.
 - Mantenere `.gitignore` senza regole globali `*.pdf`; escludere solo log,
   file temporanei e directory di build.
-- Non alterare i documenti/certificati originali per correggerne il contenuto.
+- Non alterare risultati o contenuti accademici. Per copie oscurate autorizzate,
+  rimuovere realmente testo, immagini e metadati personali; verificare tutte le
+  pagine visivamente e tramite estrazione del testo. Una semplice copertura
+  grafica non basta. Conservare gli originali privati fuori dalla repository.
 
 ## Collegamento con curriculum
 

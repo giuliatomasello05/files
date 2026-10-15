@@ -7,8 +7,15 @@ Certificazioni e attestati pubblici collegati dal
 
 | Anno | Documento | File / collegamento pubblico |
 | --- | --- | --- |
+| 2026 | TOEFL iBT — 27 maggio, 4.5/6 (90/120), B2; copia oscurata | [2026-toefl-ibt.pdf](https://github.com/giuliatomasello05/files/blob/main/2026-toefl-ibt.pdf) |
+| 2026 | Cambridge C1 Advanced — 7 marzo, 178/210, B2; copia oscurata | [2026-cambridge-c1-advanced.pdf](https://github.com/giuliatomasello05/files/blob/main/2026-cambridge-c1-advanced.pdf) |
 | 2025 | Certificazione di inglese | [2025-certificazione-inglese.pdf](https://github.com/giuliatomasello05/files/blob/main/2025-certificazione-inglese.pdf) |
 | 2025 | Attestato webinar Basics and Principles of GC, Restek | [2025-basic-and-principles-of-gc-by-restek.pdf](https://github.com/giuliatomasello05/files/blob/main/2025-basic-and-principles-of-gc-by-restek.pdf) |
+
+Le copie dei report 2026 mantengono nome, date e risultati. I dati personali
+non necessari (recapiti, foto, nascita e identificativi) sono oscurati e rimossi
+dal contenuto sottostante. Gli originali restano privati. “C1 Advanced” è il
+nome dell’esame Cambridge; il livello conseguito nel report è B2.
 
 ## Aggiungere un documento
 
@@ -28,7 +35,7 @@ Certificazioni e attestati pubblici collegati dal
    non ha workflow. Se vengono aggiunti, devono risultare tutti verdi.
 
 Non serve un processo di build in questa repository: i PDF sono documenti
-originali da versionare. Il `.gitignore` esclude solo file temporanei.
+destinati alla pubblicazione da versionare. Il `.gitignore` esclude solo file temporanei.
 
 Non rinominare o eliminare file già pubblicati senza aggiornare anche tutti i
 collegamenti e considerare che gli URL potrebbero essere già condivisi altrove.
