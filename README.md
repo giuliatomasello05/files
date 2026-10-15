@@ -22,6 +22,10 @@ Certificazioni e attestati pubblici collegati dal
 5. Aggiungere il link nel sorgente pertinente della repository `curriculum`:
    `https://github.com/giuliatomasello05/files/blob/main/AAAA-descrizione-breve.pdf`.
 6. Ricompilare il curriculum in locale e mostrarne il PDF aggiornato nella chat.
+7. Prima di considerare conclusa la richiesta, verificare tutte le GitHub Action
+   dell'ultimo commit pubblicato nelle repository modificate. La compilazione
+   automatica del CV è configurata in `curriculum`; questa repository al momento
+   non ha workflow. Se vengono aggiunti, devono risultare tutti verdi.
 
 Non serve un processo di build in questa repository: i PDF sono documenti
 originali da versionare. Il `.gitignore` esclude solo file temporanei.
