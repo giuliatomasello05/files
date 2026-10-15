@@ -1,0 +1,11 @@
+# Public documents, including PDFs, must remain trackable here.
+.DS_Store
+._*
+*~
+*.swp
+*.swo
+/tmp/
+/build/
+*.aux
+*.log
+*.synctex.gz
