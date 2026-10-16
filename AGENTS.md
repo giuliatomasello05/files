@@ -14,7 +14,10 @@ DEVONO poter essere versionati in questa repository.
 - `2025-basic-and-principles-of-gc-by-restek.pdf`: allegato del webinar Restek.
 - `2026-toefl-ibt.pdf`: test del 2026-05-27, B2, 4.5/6 (90/120).
 - `2026-cambridge-c1-advanced.pdf`: esame del 2026-03-07, 178/210, B2.
-- I due PDF 2026 sono copie con i dati personali oscurati, pubblicate con
+- `2026-sicurezza-laboratori-rischio-alto.pdf`: formazione specifica per
+  laboratori scientifici, rischio alto, 12 ore; test del 2026-10-10.
+  Copia pubblica con nascita e codice fiscale rimossi; originale privato.
+- I tre PDF 2026 sono copie con i dati personali oscurati, pubblicate con
   autorizzazione esplicita. Non sostituirle con gli originali non oscurati.
 - Nessuna compilazione o dipendenza applicativa richiesta qui.
 
@@ -39,7 +42,8 @@ DEVONO poter essere versionati in questa repository.
 - Checkout vicino: `../curriculum`; remoto:
   `git@github.com:giuliatomasello05/curriculum.git`.
 - Documento principale `resume.tex`. I link agli allegati attuali sono in
-  `resume/extracurricular.tex` e `resume/events.tex`.
+  `resume/extracurricular.tex`, `resume/events.tex` e
+  `resume/technical-skills.tex`.
 - Pubblicare prima l'allegato quando autorizzato, poi aggiornare il collegamento.
 - Dopo OGNI modifica al curriculum: `make build` in `../curriculum`, ispezionare
   `build/resume.pdf` e mostrarlo nell'anteprima di ChatGPT/Codex. Seguire anche

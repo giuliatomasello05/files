@@ -7,12 +7,16 @@ Certificazioni e attestati pubblici collegati dal
 
 | Anno | Documento | File / collegamento pubblico |
 | --- | --- | --- |
+| 2026 | Sicurezza nei laboratori scientifici, rischio alto — 12 ore, test del 10 ottobre; copia oscurata | [2026-sicurezza-laboratori-rischio-alto.pdf](https://github.com/giuliatomasello05/files/blob/main/2026-sicurezza-laboratori-rischio-alto.pdf) |
 | 2026 | TOEFL iBT — 27 maggio, 4.5/6 (90/120), B2; copia oscurata | [2026-toefl-ibt.pdf](https://github.com/giuliatomasello05/files/blob/main/2026-toefl-ibt.pdf) |
 | 2026 | Cambridge C1 Advanced — 7 marzo, 178/210, B2; copia oscurata | [2026-cambridge-c1-advanced.pdf](https://github.com/giuliatomasello05/files/blob/main/2026-cambridge-c1-advanced.pdf) |
 | 2025 | Certificazione di inglese | [2025-certificazione-inglese.pdf](https://github.com/giuliatomasello05/files/blob/main/2025-certificazione-inglese.pdf) |
 | 2025 | Attestato webinar Basics and Principles of GC, Restek | [2025-basic-and-principles-of-gc-by-restek.pdf](https://github.com/giuliatomasello05/files/blob/main/2025-basic-and-principles-of-gc-by-restek.pdf) |
 
-Le copie dei report 2026 mantengono nome, date e risultati. I dati personali
+Le copie dei report 2026 e dell’attestato di sicurezza mantengono nome, date
+e contenuti formativi. La copia dell’attestato di sicurezza oscura nascita e
+codice fiscale; il documento attesta il corso di 12 ore per rischio alto,
+con test finale superato il 10 ottobre 2026. I dati personali
 non necessari (recapiti, foto, nascita e identificativi) sono oscurati e rimossi
 dal contenuto sottostante. Gli originali restano privati. “C1 Advanced” è il
 nome dell’esame Cambridge; il livello conseguito nel report è B2.
